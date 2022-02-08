@@ -21,6 +21,12 @@
                 height: 100px;
                 width: 100px;
                 border: 1px solid #fff;
+                &.player-one{
+                    background-color: rgb(95, 168, 93);
+                }
+                &.player-two{
+                    background-color: rgb(221, 107, 107);
+                }
             }
         }
     }
